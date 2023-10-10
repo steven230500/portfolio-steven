@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio-steven/static/css/main.c2d4d869.css",
+    "main.js": "/portfolio-steven/static/js/main.adc803ed.js",
+    "static/media/avatar.svg": "/portfolio-steven/static/media/avatar.6acdd0f348322ba06d8275de5dd8ee85.svg",
+    "static/media/portfolio-img2.png": "/portfolio-steven/static/media/portfolio-img2.d80e3fc7e2231cffbbd7.png",
+    "static/media/portfolio-img3.png": "/portfolio-steven/static/media/portfolio-img3.e2bf250541b961cca642.png",
+    "static/media/site-bg.jpg": "/portfolio-steven/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/portfolio-img1.png": "/portfolio-steven/static/media/portfolio-img1.65b23e5c313b18600f24.png",
+    "static/media/steven.jpeg": "/portfolio-steven/static/media/steven.261a9c40b1310e1409f6.jpeg",
+    "static/media/services.png": "/portfolio-steven/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/about.png": "/portfolio-steven/static/media/about.34da930ab4436bc41a33.png",
+    "index.html": "/portfolio-steven/index.html",
+    "main.c2d4d869.css.map": "/portfolio-steven/static/css/main.c2d4d869.css.map",
+    "main.adc803ed.js.map": "/portfolio-steven/static/js/main.adc803ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2d4d869.css",
+    "static/js/main.adc803ed.js"
+  ]
+}
