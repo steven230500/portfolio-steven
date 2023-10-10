@@ -65,12 +65,18 @@ const About = () => {
                 </div>
               </div>
             </div>
-            <div>
+            <motion.div
+              variants={fadeIn("up", 0.6)}
+              initial="hidden"
+              whileInView={"show"}
+              viewport={{ once: false, amount: 0.7 }}
+              className=" flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0"
+            >
               <button className="btn btn-lg">Contact me</button>
               <a href="#" className="text-gradient btn-link">
                 My Portfolio
               </a>
-            </div>
+            </motion.div>
           </motion.div>
         </div>
       </div>
